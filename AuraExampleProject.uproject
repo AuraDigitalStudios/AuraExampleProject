@@ -26,5 +26,12 @@
 				"Android"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Mac",
+		"TVOS",
+		"Windows"
 	]
 }
