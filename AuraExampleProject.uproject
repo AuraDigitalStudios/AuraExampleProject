@@ -25,6 +25,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
